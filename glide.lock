@@ -1,0 +1,22 @@
+hash: 8ad35ea97fb7a8e9312861b4502e27908e668b343230d4bb187c6e65f7e54ea9
+updated: 2016-09-17T11:51:24.644268464+09:00
+imports:
+- name: github.com/go-sql-driver/mysql
+  version: a732e14c62dde3285440047bba97581bc472ae18
+- name: github.com/gorilla/context
+  version: 1ea25387ff6f684839d82767c1733ff4d4d15d0a
+- name: github.com/gorilla/mux
+  version: 0eeaf8392f5b04950925b8a69fe70f110fa7cbfc
+- name: github.com/gorilla/securecookie
+  version: 667fe4e3466a040b780561fe9b51a83a3753eefc
+- name: github.com/gorilla/sessions
+  version: 7ab2742f1e374be6675e9a4eca54fe529221ae3a
+- name: github.com/Songmu/strrand
+  version: a1c6df8c2041a7dd2ccab2c6f8b7942ea0bb25aa
+- name: github.com/unrolled/render
+  version: 3f4913244021dede105b62caecfb01f0c1eebeda
+testImports:
+- name: github.com/eknkc/amber
+  version: 7875e9689d335cd15294cd6f4f0ef8322ce4c8e7
+  subpackages:
+  - parser
